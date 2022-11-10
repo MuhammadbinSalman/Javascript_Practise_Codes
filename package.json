@@ -1,0 +1,23 @@
+{
+  "name": "javascript_practise_codes",
+  "version": "1.0.0",
+  "description": "Just for practising javascript",
+  "main": "tableMaker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadbinSalman/Javascript_Practise_Codes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadbinSalman/Javascript_Practise_Codes/issues"
+  },
+  "homepage": "https://github.com/MuhammadbinSalman/Javascript_Practise_Codes#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "random-int": "^3.0.0"
+  }
+}
